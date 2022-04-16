@@ -61,7 +61,7 @@ h1, .stat-num {color: var(--clr-white);
 
 .stat-row {display: flex;
            justify-content: space-between;
-           margin-top: auto;}
+           margin-top: 3rem;}
 
 .stat {display: flex;
 	   flex-direction: column}
