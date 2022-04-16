@@ -92,7 +92,7 @@ h1, .stat-num {color: var(--clr-white);
 {
 	.card {flex-direction: column-reverse;
            width: 90%;
-       	   margin-top : 4rem;}
+       	   margin-top : 0;}
 	
 	.card-text-container {width: 100%;
 						  padding-inline: 2.5rem;
