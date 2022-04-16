@@ -38,17 +38,8 @@ body {font-size: 15px;
 	   width: 1000px;}
 
 .card-text-container {width: 50%;
-<<<<<<< HEAD
                       padding-block: 1rem 3rem;
-	                  padding-inline: 3rem 6rem;}
-=======
-                      padding-inline: 3rem 8.5rem;
-                      padding-block: 2rem 3rem;
-		      display: flex;
-		      flex-direction: column;
-		      height: auto;}
-
->>>>>>> 8652d6f3d26a5590d3ca5e3ed54eb9dea96821ab
+	              padding-inline: 3rem 6rem;}
 
 h1 {font-size: 2rem;}
 
