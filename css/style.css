@@ -38,8 +38,8 @@ body {font-size: 15px;
        width: 1139.2px;}
 
 .card-text-container {width: 50%;
-                      padding-inline: 4rem 8.5rem;
-                      padding-block: 2.5rem 3rem;
+                      padding-inline: 3rem 8.5rem;
+                      padding-block: 2rem 3rem;
 		      display: flex;
 		      flex-direction: column;
 		      height: auto;}
