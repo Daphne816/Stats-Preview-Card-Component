@@ -88,7 +88,7 @@ h1, .stat-num {color: var(--clr-white);
 
 /*Mobile*/
 /*Tested at 375x667px*/
-@media screen and (max-width: 375px)
+@media (max-width: 375px)
 {
 	.card {flex-direction: column-reverse;
            width: 90%;
